@@ -10,3 +10,5 @@ Here are main features of our application:
 ### Screenshots
 
 !["Display Image"](./Screenshots/1.png)
+!["Display Image"](./Screenshots/2.png)
+!["Display Image"](./Screenshots/3.png)
